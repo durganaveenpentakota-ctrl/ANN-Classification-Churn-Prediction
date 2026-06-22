@@ -5,3 +5,4 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit
+pip>=26.1.2
